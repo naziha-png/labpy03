@@ -1,13 +1,20 @@
-**LAPORAN PRAKTIKUM 3**
-**Nama:** Naziha Raiqi Aribino
-**Kelas:** TI.25.A2
-**NIM:** 312510232
-**Mata Kuliah:** Pengantar Pemrograman
-**Topik:** Perulangan
+
+  # **LAPORAN PRAKTIKUM 3**  
+  
+  **Nama:** Naziha Raiqi Aribino  
+  
+  **Kelas:** TI.25.A2  
+  
+  **NIM:** 312510232  
+  
+ **Mata Kuliah:** Pengantar Pemrograman  
+ 
+  **Topik:** Perulangan  
+  
 
 ---
 
-### **Tujuan Praktikum**
+## **Tujuan Praktikum**
 
 1. Mempelajari konsep perulangan `for` dan `while` dalam Python.
 2. Mengimplementasikan pernyataan `break` dan `continue`.
