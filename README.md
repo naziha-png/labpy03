@@ -175,8 +175,5 @@ Dari praktikum ini dapat disimpulkan bahwa:
 * Pernyataan `break` menghentikan perulangan, sedangkan `continue` melewati satu iterasi dan melanjutkan ke iterasi berikutnya.
 * Penerapan perulangan sangat berguna untuk memproses data berulang seperti perhitungan laba, simulasi sistem, dan pemrosesan otomatis.
 
----
 
-**Tanda Tangan Praktikan**
-*(..............................................)*
-Naziha Raiqi Aribino
+
